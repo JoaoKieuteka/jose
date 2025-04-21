@@ -1,0 +1,28 @@
+        
+body{
+
+    
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+div{
+
+
+        background-color: blueviolet;
+
+        width: 350px;
+
+        height: 350px;
+
+        margin-left: 750px;
+
+        padding: 20px;
+
+        padding-bottom: 40px;
+
+        text-align: center;
+
+}
